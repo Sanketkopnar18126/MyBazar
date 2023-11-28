@@ -1,12 +1,12 @@
 import { Banner } from "../Banner/Banner"
-import { Product } from "../Product/Product"
+import { Products } from "../Products/Products"
 
 
 export const Home = () => {
   return (
     <>
     <Banner/>
-  <Product/>
+  <Products/>
     </>
   )
 }
